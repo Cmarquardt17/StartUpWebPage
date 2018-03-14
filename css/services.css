@@ -1,0 +1,22 @@
+#servicesparagraph{
+	margin-left:0px;
+	margin-top:70px;
+	font-size:14px;
+	margin-bottom:20px;
+	text-align: center;
+}
+
+#servicesparagraph h3{
+	font-size:23px;
+	margin:0px;
+	padding:0px;
+	margin-bottom:15px;
+	text-align: center;
+}
+
+.service{
+	float:left;
+	font-size:12px;
+	margin-left:140px;
+	padding-bottom:15px;
+}
